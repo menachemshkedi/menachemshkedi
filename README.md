@@ -9,4 +9,5 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am busy
 ___
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=menachemshkedi&layout=compact&theme=blue-green)
 ##### My main accout [here](https://menachemshkedi.github.io/data/aroary.html).

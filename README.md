@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Development
 - 🤔 I’m looking for Help with my code
 - 💬 Ask me about My experience 
-- 📫 How to reach me: Open a discution
+- 📫 How to reach me: Open a discussion
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am busy
 ___
